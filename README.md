@@ -1,4 +1,4 @@
-# 🍲 Community Cook
+🍲 Community Cook Game
 
 A pixel-art RPG where you play as a **community cook** trying to save a dying town through food, strategy, and compassion.
 
@@ -8,12 +8,6 @@ A pixel-art RPG where you play as a **community cook** trying to save a dying to
 - Play **minigames** for chopping, cooking, and serving
 - Focus on **nutrition (FVPS)** over taste
 - **Top-down** perspective, day-based structure (prep → cook → serve)
-
-🧠 Inspirations
-- **The Escapists** – Minigame design  
-- **Dave the Diver** – Recipe mechanics  
-- **Chef RPG** – Visual feel  
-- **Trails in the Sky** – Character dialogue  
 
 🎯 Goal
 Highlight the power of **community kitchens** and resource-sharing to uplift a struggling town.
@@ -26,6 +20,4 @@ Highlight the power of **community kitchens** and resource-sharing to uplift a s
 🛠 Built With
 - **GameMaker Studio**
 - Pixel art and custom minigame scripts
-
----
 
